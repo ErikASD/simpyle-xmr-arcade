@@ -1,4 +1,5 @@
 # simpyle-xmr-arcade
+Simple Jackpot with built in 3-5% house edge
 
 GnuPG and monero wallet rpc Required:
 
