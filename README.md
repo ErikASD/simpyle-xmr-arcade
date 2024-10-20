@@ -1,6 +1,4 @@
-# simpyle-xmr-processor
-A simple Monero (XMR) payment processor that credits accounts using a pgp login system
-
+# simpyle-xmr-arcade
 
 GnuPG and monero wallet rpc Required:
 
